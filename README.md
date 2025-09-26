@@ -1,11 +1,14 @@
 
-<style>
-  h2 {
-    font-size: 500px;
-  }
-  
-</style>
-# Celsius to Fahrenheit Converter
-
-A celsius to fahrenheit converter I built in Visual Basic for my software development course. <h2>🌡️</h2>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Celsius Converter</title>
+</head>
+<body>
+  <h1>Celsius to Fahrenheit Converter</h1>
+  <p>This is my first application in my software development studies</p>
+</body>
+</html>
