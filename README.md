@@ -1,7 +1,7 @@
 
 <style>
   h2 {
-    font-size: 100px;
+    font-size: 500px;
   }
   
 </style>
